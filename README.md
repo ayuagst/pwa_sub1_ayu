@@ -1,2 +1,1 @@
-# pwa_sub1_ayu
-my first pwa
+# a74-pwa

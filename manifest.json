@@ -1,0 +1,16 @@
+{
+    "name": "digitradiart",
+    "short_name": "digitradiart",
+    "description": "this is my first app",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#455a64",
+    "theme_color": "#455a64",
+    "icons": [
+        {
+            "src": "digitradiart.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
