@@ -1,28 +1,33 @@
-body{
+body {
     background-color:whitesmoke;
 }
-h2{
+
+h2 {
     color:turquoise;
     text-align: center;
 }
-p{
+
+p {
     text-align: justify;
     color:#455a64;
     margin: 10px;
 }
-q{
+
+q {
     text-align: right;
     color:teal;
     margin: 10px;
 }
-table{
+
+table {
     margin: auto;
     text-align: center;
     color: #455a64;
 }
-img .homeicon{
-    display: block;
+
+img .logo {
+    width: 20px;
+    display: inline;
     margin-left: auto;
     margin-right: auto;
-    
 }
