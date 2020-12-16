@@ -1,4 +1,4 @@
-const CACHE_NAME = 'firstpwa'; /* ini nama cache selanjutnya */
+const CACHE_NAME = 'firstpwa'; 
 var urlsToCache = [
 	'/',
 	'/nav.html',
@@ -6,8 +6,8 @@ var urlsToCache = [
 	'/pages/home.html',
 	'/pages/about.html',
 	'/pages/contact.html',
-	'/pages/interests.html', /*ini bisa ditambah sesuai halaman */
-	'/pages/style.css', /*ini perlu ditulis di sini kah? */
+	'/pages/interests.html', 
+	'/pages/style.css',
 	'/css/materialize.min.css',
 	'/js/materialize.min.js',
 	'/js/nav.js'

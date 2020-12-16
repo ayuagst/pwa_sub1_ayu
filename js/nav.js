@@ -1,4 +1,4 @@
-//bismillah, submission 1 IDCamp Dicoding, progressive web application, script by Ayu Agustina
+//bismillah, submission 1 IDCamp Dicoding, progressive web application, script by DIGITRADIART
 
 document.addEventListener('DOMContentLoaded', function(){
 
